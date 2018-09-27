@@ -1,0 +1,33 @@
+.jumbotron {
+    background-image: url("../image/maxresdefault.jpg");
+    background-color: #cccccc;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #7FAF48;
+    border-color: #7FAF48;
+}
+.button:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+}
+
+body {
+    background-color:lightgrey;
+}
+.btn-secondary {
+    color: #fff;
+    background-color: #7FAF48;
+ 
+    border-color: #;
+    border-top-color: rgb(108, 117, 125);
+    border-right-color: rgb(108, 117, 125);
+    border-bottom-color: rgb(108, 117, 125);
+    border-left-color: rgb(108, 117, 125);
+}
+.btn-primary:hover {
+    color: #fff;
+    background-color: #1A8230;
+    border-color: #1A8230
+};
+}
